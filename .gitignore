@@ -2,3 +2,4 @@
 .vscode
 target
 *.iml
+src/main/resources/spring-test-fcm-firebase-adminsdk-t71ir-bc362ca7bc.json
